@@ -1,0 +1,523 @@
+!SESSION 2021-08-18 14:03:18.968 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-18 14:05:02.909
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-18 14:05:02.909
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-08-18 14:05:05.077
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-08-18 14:05:05.141
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.jface 2 0 2021-08-18 14:05:06.966
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-18 14:05:06.966
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1eda853f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f0751b0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-18 14:05:25.521
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bruno'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-08-18 14:08:51.825
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:08:54.602
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:08:55.462
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:08:56.372
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:08:57.405
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:08:58.035
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-18 14:20:04.742
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-18 14:20:29.864
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:20:30.109
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:20:45.941
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:20:46.215
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:02.623
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:03.028
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:08.117
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:08.356
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:22.197
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:22.403
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:41.371
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:41.613
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:55.804
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:21:55.989
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:15.068
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:15.070
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6ded46a7[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:15.152
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:15.325
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-08-18 14:22:15.454
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:22:16.212
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:22:16.305
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:26.778
+!MESSAGE Boot LS startup time from start to initialized: 11599ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.245
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zZqUxwEfisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.268
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.271
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.272
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.273
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.273
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zZqUxwEf => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.282
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.288
+!MESSAGE buffering callback sts4.classpath.zZqUxwEf Spring_Data_Jpa false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:27.291
+!MESSAGE executing callback sts4.classpath.zZqUxwEf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:28.326
+!MESSAGE executing callback sts4.classpath.zZqUxwEf SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-18 14:22:35.951
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:22:36.603
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:42.583
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zZqUxwEf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:42.585
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.zZqUxwEf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:42.586
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:22:42.587
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zZqUxwEf => OK
+
+!ENTRY Activator 1 0 2021-08-18 14:23:12.703
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:13.027
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:13.030
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6ded46a7[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:13.032
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-08-18 14:23:13.366
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:16.673
+!MESSAGE Boot LS startup time from start to initialized: 3639ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.029
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.FWzwbWqbisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.031
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.032
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.033
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.035
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.FWzwbWqb => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.036
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.047
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.058
+!MESSAGE buffering callback sts4.classpath.FWzwbWqb Spring_Data_Jpa false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.062
+!MESSAGE executing callback sts4.classpath.FWzwbWqb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:23:17.763
+!MESSAGE executing callback sts4.classpath.FWzwbWqb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-18 14:24:10.981
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:24:11.568
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:24:38.728
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:24:39.340
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:24:42.540
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FWzwbWqb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:24:42.541
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.FWzwbWqb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:24:42.543
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:24:42.544
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FWzwbWqb => OK
+
+!ENTRY Activator 1 0 2021-08-18 14:25:16.896
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:17.207
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:17.208
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6ded46a7[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:17.212
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-08-18 14:25:17.513
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.469
+!MESSAGE Boot LS startup time from start to initialized: 3255ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.667
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DoIPhucEisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.668
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.668
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.670
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.671
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.671
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DoIPhucE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.677
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.683
+!MESSAGE buffering callback sts4.classpath.DoIPhucE Spring_Data_Jpa false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:20.684
+!MESSAGE executing callback sts4.classpath.DoIPhucE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:25:21.128
+!MESSAGE executing callback sts4.classpath.DoIPhucE SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-18 14:25:50.116
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:25:50.739
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:26:08.155
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:26:08.766
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:26:12.246
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DoIPhucE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:26:12.247
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.DoIPhucE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:26:12.248
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:26:12.249
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DoIPhucE => OK
+
+!ENTRY Activator 1 0 2021-08-18 14:27:16.342
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:16.610
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:16.611
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6ded46a7[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:16.612
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-08-18 14:27:16.981
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.361
+!MESSAGE Boot LS startup time from start to initialized: 3743ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.548
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.qnLvVkBYisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.549
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.550
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.551
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.552
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.553
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.qnLvVkBY => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.559
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.564
+!MESSAGE buffering callback sts4.classpath.qnLvVkBY Spring_Data_Jpa false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:20.565
+!MESSAGE executing callback sts4.classpath.qnLvVkBY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:21.079
+!MESSAGE executing callback sts4.classpath.qnLvVkBY SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-18 14:27:31.432
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:31.531
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qnLvVkBY
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:31.533
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.qnLvVkBY
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:31.534
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:27:31.535
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qnLvVkBY => OK
+
+!ENTRY Activator 1 0 2021-08-18 14:27:32.104
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:33.717
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:33.718
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6ded46a7[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:33.720
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.014
+!MESSAGE Boot LS startup time from start to initialized: 3291ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.158
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yOKpLVciisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.159
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.161
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.162
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.163
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.163
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.yOKpLVci => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.170
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.177
+!MESSAGE buffering callback sts4.classpath.yOKpLVci Spring_Data_Jpa false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.178
+!MESSAGE executing callback sts4.classpath.yOKpLVci 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:37.634
+!MESSAGE executing callback sts4.classpath.yOKpLVci SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:44.300
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.yOKpLVci
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:44.301
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.yOKpLVci
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:44.303
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:28:44.304
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.yOKpLVci => OK
+
+!ENTRY Activator 1 0 2021-08-18 14:29:15.052
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:15.331
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:15.332
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6ded46a7[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:15.333
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-08-18 14:29:15.648
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.380
+!MESSAGE Boot LS startup time from start to initialized: 3045ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.518
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eihycpgcisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.519
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.520
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.521
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.522
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.522
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eihycpgc => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.528
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.533
+!MESSAGE buffering callback sts4.classpath.eihycpgc Spring_Data_Jpa false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:18.534
+!MESSAGE executing callback sts4.classpath.eihycpgc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:19.021
+!MESSAGE executing callback sts4.classpath.eihycpgc SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-18 14:29:31.322
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:29:31.941
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:37.966
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eihycpgc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:37.967
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.eihycpgc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:37.968
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-18 14:29:37.969
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eihycpgc => OK
+
+!ENTRY Activator 1 0 2021-08-18 14:32:55.525
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:32:56.088
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:33:12.683
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
+
+!ENTRY Activator 1 0 2021-08-18 14:33:13.253
+!MESSAGE Has main method computation for project 'Spring_Data_Jpa'
